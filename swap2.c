@@ -1,3 +1,5 @@
+//Brais García Brenlla, 46097652v
+
 #include <errno.h>
 #include <pthread.h>
 #include <stdio.h>
