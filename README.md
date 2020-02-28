@@ -1,1 +1,1 @@
-# cp-p1
+# cp-p1 (Concurrencia e paralelismo)
